@@ -1,0 +1,16 @@
+C:\Users\FIT\Desktop\P\Tests_DateFormat\src\Library\bin\Debug\netstandard2.0\Library.deps.json
+C:\Users\FIT\Desktop\P\Tests_DateFormat\src\Library\bin\Debug\netstandard2.0\Library.dll
+C:\Users\FIT\Desktop\P\Tests_DateFormat\src\Library\bin\Debug\netstandard2.0\Library.pdb
+C:\Users\FIT\Desktop\P\Tests_DateFormat\src\Library\obj\Debug\netstandard2.0\Library.csprojAssemblyReference.cache
+C:\Users\FIT\Desktop\P\Tests_DateFormat\src\Library\obj\Debug\netstandard2.0\Library.AssemblyInfoInputs.cache
+C:\Users\FIT\Desktop\P\Tests_DateFormat\src\Library\obj\Debug\netstandard2.0\Library.AssemblyInfo.cs
+C:\Users\FIT\Desktop\P\Tests_DateFormat\src\Library\obj\Debug\netstandard2.0\Library.dll
+C:\Users\FIT\Desktop\P\Tests_DateFormat\src\Library\obj\Debug\netstandard2.0\Library.pdb
+C:\Users\FIT\Desktop\P\DateFormat\src\Library\bin\Debug\netstandard2.0\Library.deps.json
+C:\Users\FIT\Desktop\P\DateFormat\src\Library\bin\Debug\netstandard2.0\Library.dll
+C:\Users\FIT\Desktop\P\DateFormat\src\Library\bin\Debug\netstandard2.0\Library.pdb
+C:\Users\FIT\Desktop\P\DateFormat\src\Library\obj\Debug\netstandard2.0\Library.csprojAssemblyReference.cache
+C:\Users\FIT\Desktop\P\DateFormat\src\Library\obj\Debug\netstandard2.0\Library.AssemblyInfoInputs.cache
+C:\Users\FIT\Desktop\P\DateFormat\src\Library\obj\Debug\netstandard2.0\Library.AssemblyInfo.cs
+C:\Users\FIT\Desktop\P\DateFormat\src\Library\obj\Debug\netstandard2.0\Library.dll
+C:\Users\FIT\Desktop\P\DateFormat\src\Library\obj\Debug\netstandard2.0\Library.pdb
